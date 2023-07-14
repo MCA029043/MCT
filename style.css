@@ -191,22 +191,22 @@ footer li{
   justify-content: space-between;
   line-height: 0;
 }
-footer #icons{
+footer .icons{
   background-color: rgba(255,255, 255, 0.1);
   padding: 15px;
   margin: 0 7px;
   border-radius: 4px;
 }
-footer .fb:hover{
+footer #fb:hover{
   background-color: rgb(60, 60, 254);
 }
-footer .yt:hover{
+footer #yt:hover{
   background-color: rgb(217, 4, 4);
 }
-footer .ig:hover{
+footer #ig:hover{
   background-color: rgb(60, 60, 254);
 }
-footer .tw:hover{
+footer #tw:hover{
   background-color: rgb(22, 156, 239);
 }
 
