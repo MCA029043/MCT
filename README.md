@@ -61,4 +61,4 @@ Ajay Potlia
 
 Here are some screenshots of the Maggi Clone App:
 
-(screenshots/web-page-1.png)(screenshots/web-page-2.png)(screenshots/web-page-3.png)
+screenshot1.PNG
